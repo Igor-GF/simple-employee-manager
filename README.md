@@ -4,7 +4,7 @@ Application aimed to get knowledge with JAVA / Angular stack.
 App built based on Amigoscode tutorial om https://www.youtube.com/watch?v=Gx4iBLKLVHk
 
 ## Technologies
-- Java (Maven library) Spring Boot
+- Java Spring Boot (Maven library)
 - HTML 
 - CSS
 - TypeScript
