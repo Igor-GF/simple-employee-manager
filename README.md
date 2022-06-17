@@ -1,7 +1,10 @@
 # Simple Employee Manager (Backend)
 
-Application aimed to get knowledge with JAVA / Angular stack.
-App built based on Amigoscode tutorial om https://www.youtube.com/watch?v=Gx4iBLKLVHk
+Full Stack Java/Angular application aimed to get knowledge with JAVA / Angular stack.
+App built based on AmigosCode tutorial om https://www.youtube.com/watch?v=Gx4iBLKLVHk
+
+## Link to the frontend project
+https://github.com/Igor-GF/simple-employee-manager-frontend
 
 ## Technologies
 - Java Spring Boot (Maven library)
